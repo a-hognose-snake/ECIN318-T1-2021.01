@@ -1,0 +1,5 @@
+Renca,Rodriguez,22222222,DEF456,300000,101200,Coquimbo,5
+Julieta,Martinez,33333333,CACACA,500000,400000,La Serena,2
+Lao,Ming,199492683,holo,3888,0,La Serena,3
+Lol,Soy,199492684,hola,2000000,0,Coquimbo,6
+Felina,Carmen,123453459,holi1234,3000000,0,La Serena,7

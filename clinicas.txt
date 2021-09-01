@@ -1,0 +1,2 @@
+Coquimbo,1210800,Higienizada
+La Serena,5000000,Higienizada

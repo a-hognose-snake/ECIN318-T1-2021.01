@@ -1,0 +1,2 @@
+Juan,Perez,11111111,ABC123,Fonasa,Coquimbo
+Josefina,Figueroa,199499505,Casimiro2,Fonasa,Coquimbo
